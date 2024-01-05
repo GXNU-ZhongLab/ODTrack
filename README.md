@@ -142,9 +142,9 @@ python tracking/profile_model.py --script odtrack --config baseline
 If our work is useful for your research, please consider citing:
 
 ```Bibtex
-@inproceedings{odtrack,
-  title={ODTrack: Online Dense Temporal Token Learning for Visual Tracking},
-  author={Yaozong Zheng, Bineng Zhong, Qihua Liang, Zhiyi Mo, Shengping Zhang, Xianxian Li},
+@inproceedings{zheng2024odtrack,
+  title={ODTrack: Online Dense Temporal Token Learning for Visual Tracking}, 
+  author={Yaozong Zheng and Bineng Zhong and Qihua Liang and Zhiyi Mo and Shengping Zhang and Xianxian Li},
   booktitle={AAAI},
   year={2024}
 }
