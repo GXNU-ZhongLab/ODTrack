@@ -1,6 +1,6 @@
 # [AAAI'2024] - ODTrack
 
-The official implementation for the **AAAI 2024** paper \[ [_ODTrack: Online Dense Temporal Token Learning for Visual Tracking_](https://arxiv.org/abs/2401.01686) \].
+The official implementation for the **AAAI 2024** paper \[[_ODTrack: Online Dense Temporal Token Learning for Visual Tracking_](https://arxiv.org/abs/2401.01686)\].
 
 [[Models](https://drive.google.com/drive/folders/17LacrfRO01R75bxU4bgA87eo1b_rX5Gj?usp=sharing)], [[Raw Results](https://drive.google.com/drive/folders/10I7aHb2J4SFTMuQ_LN33VbaiykD_M2hi?usp=sharing)], [[Training logs](https://drive.google.com/drive/folders/1BXnYmnGnSZIA0IR_gwdlDczl0ex4DgFF?usp=sharing)]
 
