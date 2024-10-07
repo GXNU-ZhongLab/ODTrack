@@ -26,13 +26,13 @@ DATA:
     - GOT10K_train_full
     DATASETS_RATIO:
     - 1
-    SAMPLE_PER_EPOCH: 40000
+    SAMPLE_PER_EPOCH: 30000
   VAL:
     DATASETS_NAME:
     - GOT10K_official_val
     DATASETS_RATIO:
     - 1
-    SAMPLE_PER_EPOCH: 6000
+    SAMPLE_PER_EPOCH: 5000
 MODEL:
   PRETRAIN_FILE: "mae_pretrain_vit_large.pth"
   EXTRA_MERGER: False
